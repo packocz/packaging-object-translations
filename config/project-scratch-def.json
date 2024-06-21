@@ -1,13 +1,14 @@
 {
-	"orgName": "ext43767 company",
+	"orgName": "PragBear",
 	"edition": "Developer",
 	"features": ["EnableSetPasswordInApi"],
 	"settings": {
-		"lightningExperienceSettings": {
-			"enableS1DesktopEnabled": true
-		},
 		"mobileSettings": {
 			"enableS1EncryptedStoragePref2": false
+		},
+		"languageSettings": {
+			"enableTranslationWorkbench": true,
+			"enableEndUserLanguages": true
 		}
 	}
 }

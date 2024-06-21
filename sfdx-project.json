@@ -3,11 +3,22 @@
 		{
 			"path": "src-temp",
 			"default": true
+		},
+		{
+			"path": "src/object-translations",
+			"package": "ObjectTranslations",
+			"versionName": "ver 0.2",
+			"versionNumber": "0.2.0.NEXT",
+			"default": false,
+			"versionDescription": ""
 		}
 	],
-	"name": "sfxx",
-	"namespace": "",
+	"name": "ObjectTranslations",
+	"namespace": "packocz",
 	"sfdcLoginUrl": "https://login.salesforce.com",
-	"sourceApiVersion": "60.0",
-	"packageAliases": {}
+	"sourceApiVersion": "61.0",
+	"packageAliases": {
+		"ObjectTranslations": "0Ho080000008OM2CAM",
+		"ObjectTranslations@0.1.0-1": "04t08000000Nw0LAAS"
+	}
 }
