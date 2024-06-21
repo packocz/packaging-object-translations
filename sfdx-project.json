@@ -19,6 +19,7 @@
 	"sourceApiVersion": "61.0",
 	"packageAliases": {
 		"ObjectTranslations": "0Ho080000008OM2CAM",
-		"ObjectTranslations@0.1.0-1": "04t08000000Nw0LAAS"
+		"ObjectTranslations@0.1.0-1": "04t08000000Nw0LAAS",
+		"ObjectTranslations@0.2.0-2": "04t08000000Nw0VAAS"
 	}
 }
